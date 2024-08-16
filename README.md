@@ -6,6 +6,9 @@ Designed and developed a secure online bookstore web application with robust fea
 Technologies:
 
 Front-end: React.js, HTML, CSS, JavaScript
+
 Back-end: Spring Boot (Java), MySQL
+
 Security: JWT for session management, bcrypt for password hashing, HTTPS
+
 Testing: JUnit for unit testing, Selenium for automated testing
